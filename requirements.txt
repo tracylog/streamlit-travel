@@ -1,12 +1,10 @@
 streamlit
 pandas
-numpy
 plotly
-matplotlib
 seaborn
+matplotlib
 textblob
 wordcloud
-statsmodels
-requests
-gdown
 joblib
+statsmodels
+gdown
